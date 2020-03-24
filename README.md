@@ -44,7 +44,7 @@ To read more about it in a blog post: https://medium.com/@862/medreminder-app-se
 
 <img src="https://github.com/veromejia/med_reminder/blob/master/Images/Reminder%20info.png" />
 
-<img src="https://github.com/hanhuyeny2k/med_reminder/blob/master/Images/Dashboard%20record.png" />
+<img src="https://github.com/hanhuyeny2k/med_reminder/Images/Dashboard record.png" />
 
 ## Setup and Testing
 <img src="https://github.com/veromejia/med_reminder/blob/master/Images/backend1.png" />
